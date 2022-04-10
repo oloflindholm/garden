@@ -1,6 +1,6 @@
 # 2022 Spring Reading Challenge
 
-Will read 10 books in 10 weeks, starting from Monday April 4, 2022. Not entirely sure what will be in that list of books.
+Will read 10 books in 10 weeks, starting from Monday April 4, 2022. Not entirely sure what will be in that list of books, will decide along the way.
 
 * Book 1: [[The Torrents of Spring]] by [[Ernest Hemingway]] (1926) - **DONE**
 * Book 2: [[The Sun Also Rises]] by [[Ernest Hemingway]] (1926)
